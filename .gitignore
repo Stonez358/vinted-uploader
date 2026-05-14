@@ -8,14 +8,33 @@ chrome_profil/
 
 # Zugangsdaten / Konfiguration
 config.json
+.env
+.env.*
+secrets.*
 
 # Artikel-Bilder (lokal, nicht ins Repo)
 artikel/
+images/
+uploads/
+downloads/
 
 # Logs
 *.log
 logs/
 
-# Temporär
+# Temporäre Dateien
 *.tmp
 *.bak
+tmp/
+temp/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
