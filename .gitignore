@@ -1,0 +1,35 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Umgebungsvariablen / Zugangsdaten
+.env
+.env.*
+config.ini
+secrets.*
+
+# Temporäre Dateien
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Hochgeladene / heruntergeladene Bilder
+images/
+uploads/
+downloads/
+*.jpg
+*.jpeg
+*.png
+*.heic
