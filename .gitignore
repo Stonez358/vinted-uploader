@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Chrome Profil (enthält Sitzungsdaten / Cookies)
+chrome_profil/
+
+# Zugangsdaten / Konfiguration
+config.json
+
+# Artikel-Bilder (lokal, nicht ins Repo)
+artikel/
+
+# Logs
+*.log
+logs/
+
+# Temporär
+*.tmp
+*.bak
